@@ -1,9 +1,9 @@
-## MultiAgentEquationSolver
+# MultiAgentEquationSolver
 Multiagent solver for set of linear equations using Jacobi method.
 
 Sample input is given in [input.txt](https://github.com/asif31iqbal/MultiAgentEquationSolver/blob/master/input.txt).
 
-# Input file description
+## Input file description
 First line = number of variables (n)
 
 Followed by n lines mentioning the names of the variables
