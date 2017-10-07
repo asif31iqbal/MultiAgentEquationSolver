@@ -3,15 +3,10 @@ package equationsolver;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
-import java.awt.GridLayout;
 import javax.swing.JTextArea;
 import javax.swing.JButton;
 import javax.swing.JLabel;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
-import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
-import javax.swing.JTextField;
 
 public class SolverWindow {
 
